@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538986287 source:c:\codeblock\globaltest\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
